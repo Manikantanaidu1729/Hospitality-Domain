@@ -56,4 +56,4 @@ In conclusion, data intelligence has unlocked a world of possibilities for AtliQ
 This is not just a project; it's a success story in the making, driven by data and innovation.
 
 # Performance Evaluation
-![Hospitality Dashboard screenshot](https://github.com/Manikantanaidu1729/Hospitality-Domain/assets/153293142/b38e1e73-b727-41cd-9797-8abe38b64a17)
+![Hospitality Dashboard Screenshot](https://github.com/Manikantanaidu1729/Hospitality-Domain/assets/153293142/7af5c061-122c-4ad6-9b6a-365bd3ed0d1d)
